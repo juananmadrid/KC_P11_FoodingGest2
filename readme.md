@@ -7,6 +7,11 @@ La práctica aquí presentada se desarrolla dentro del Máster Bootcamp 4ª edic
 
 NOTAS SOBRE LA PRÁCTICA
 --------------------------------------
+
+Incluyo aquí por si acado el enlace del repositorio inicial de esta práctica, que como me ha dado problemas he visto que solo había copiado los ficheros java pero no los demás, o al menos yo no los he visto. Introduje todo el proyecto pero solo veo los ficheros java.
+
+https://github.com/juananmadrid/KC_P11_FoodingGest.git
+
 Hasta esta tarde, todo lo desarrollado para la app me funcionaba correctamente, incluso para varios dispositivos. A primera hora de esta tarde he tenido un CRASH en el ordenador y se me ha quedado todo bloqueado con la app en Visual Studio abierta y a partir de ese momento no he podido seguir desarrollando pues me daba errores muy extraños, incluso con commit anteriores de la app que funcionaban perfectamente. 
 
 No sé si se habrá corrompido el fichero o si será un problema de mi Android Studio, creo y espero que sea esto último. He subido una copia del proyecto, la última probada. Me da como error que no encuentra un icono en métodos internos de Android Studio y da error con la "R" en rojo de recursos. 
