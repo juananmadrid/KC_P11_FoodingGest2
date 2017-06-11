@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodingGest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_table_view_pager">TableViewPagerActivity</string>
+    <string name="title_activity_dish_list">DishListActivity</string>
+    <string name="menu_table_bill">Table Bill</string>
+    <string name="menu_table_add_dish">Add Dish</string>
+    <string name="title_dishes">Dishes</string>
+    <string name="list_url">http://www.mocky.io/v2/593be1031000009b0ec47774</string>
+
+</resources>

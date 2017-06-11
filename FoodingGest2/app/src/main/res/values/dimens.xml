@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dish_name_texSize">14dp</dimen>
+    <dimen name="min_margen">8dp</dimen>
+    <dimen name="bill_margen_texts">25dp</dimen>
+</resources>
